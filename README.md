@@ -19,6 +19,18 @@ A relational database system for managing employees and departments.
 
 📂 Path: `/project-01-employee-database`
 
+### 2️⃣ Sales Database
+A relational SQL project for managing customers, products, and orders with sales analytics.
+
+**Features:**
+- Customer, product, and order tables
+- Revenue analysis
+- Product performance analysis
+- Customer spending analysis
+- Filtering and reporting queries
+
+📂 Path: `/project-02-sales-database`
+
 ---
 
 ## 🛠 Skills Demonstrated
