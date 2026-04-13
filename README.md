@@ -31,6 +31,18 @@ A relational SQL project for managing customers, products, and orders with sales
 
 📂 Path: `/project-02-sales-database`
 
+### 3️⃣ Banking System Database
+A SQL project for managing customers, accounts, and financial transactions.
+
+**Features:**
+- Customer and account management
+- Deposit and withdrawal tracking
+- Balance analysis
+- Transaction reporting
+- Customer activity insights
+
+📂 Path: `/project-03-banking-system`
+
 ---
 
 ## 🛠 Skills Demonstrated
