@@ -118,6 +118,18 @@ A SQL project for generating business reports using joins, subqueries, and views
 
 📂 Path: `/project-09-reporting-engine`
 
+### 🔟 HR Analytics Dashboard Queries
+A SQL project for analyzing employee data and workforce trends.
+
+**Features:**
+- Turnover rate calculation
+- Salary insights
+- Hiring trends
+- Department performance
+- Workforce analytics
+
+📂 Path: `/project-10-hr-analytics`
+
 ---
 
 ## 🛠 Skills Demonstrated
