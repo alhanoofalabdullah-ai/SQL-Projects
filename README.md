@@ -80,6 +80,19 @@ A SQL project for analyzing student grades and academic performance across multi
 
 📂 Path: `/project-06-student-analytics`
 
+### 7️⃣ Hospital Database System
+A SQL project for managing patients, doctors, and appointments with healthcare analytics.
+
+**Features:**
+- Patient and doctor management
+- Appointment scheduling
+- Status tracking
+- Doctor workload analysis
+- Patient activity insights
+- Specialization-based reporting
+
+📂 Path: `/project-07-hospital-database`
+
 ---
 
 ## 🛠 Skills Demonstrated
