@@ -93,6 +93,18 @@ A SQL project for managing patients, doctors, and appointments with healthcare a
 
 📂 Path: `/project-07-hospital-database`
 
+### 8️⃣ Log Analysis System
+A SQL project for monitoring system logs and analyzing operational issues.
+
+**Features:**
+- System log tracking
+- Error and warning analysis
+- Daily activity monitoring
+- System activity comparison
+- High error rate detection
+
+📂 Path: `/project-08-log-analysis`
+
 ---
 
 ## 🛠 Skills Demonstrated
