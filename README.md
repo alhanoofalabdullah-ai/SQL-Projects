@@ -105,6 +105,19 @@ A SQL project for monitoring system logs and analyzing operational issues.
 
 📂 Path: `/project-08-log-analysis`
 
+### 9️⃣ Advanced Reporting Engine
+A SQL project for generating business reports using joins, subqueries, and views.
+
+**Features:**
+- Detailed sales reporting
+- Customer spending analysis
+- Product and category revenue insights
+- City-based order analysis
+- Average order value
+- Reusable reporting views
+
+📂 Path: `/project-09-reporting-engine`
+
 ---
 
 ## 🛠 Skills Demonstrated
