@@ -56,6 +56,17 @@ A SQL project for managing customers, products, and online orders with revenue a
 
 📂 Path: `/project-04-ecommerce-database`
 
+### 5️⃣ Inventory Management Database
+A SQL project for managing suppliers, products, and stock movements with inventory analytics.
+
+**Features:**
+- Supplier and product management
+- Stock in / stock out tracking
+- Low stock analysis
+- Inventory value reporting
+- Category and supplier insights
+
+📂 Path: `/project-05-inventory-database`
 ---
 
 ## 🛠 Skills Demonstrated
