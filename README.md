@@ -67,6 +67,19 @@ A SQL project for managing suppliers, products, and stock movements with invento
 - Category and supplier insights
 
 📂 Path: `/project-05-inventory-database`
+
+### 6️⃣ Student Performance Analytics
+A SQL project for analyzing student grades and academic performance across multiple subjects.
+
+**Features:**
+- Student and subject management
+- Grade tracking
+- Average score analysis
+- Top and lowest student insights
+- Ranking and performance filtering
+
+📂 Path: `/project-06-student-analytics`
+
 ---
 
 ## 🛠 Skills Demonstrated
