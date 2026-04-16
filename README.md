@@ -43,6 +43,19 @@ A SQL project for managing customers, accounts, and financial transactions.
 
 📂 Path: `/project-03-banking-system`
 
+### 4️⃣ E-Commerce Database
+A SQL project for managing customers, products, and online orders with revenue analytics.
+
+**Features:**
+- Customer and product management
+- Orders and order items tracking
+- Revenue analysis
+- Best-selling products
+- Top customer insights
+- Stock reporting
+
+📂 Path: `/project-04-ecommerce-database`
+
 ---
 
 ## 🛠 Skills Demonstrated
