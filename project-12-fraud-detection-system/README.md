@@ -47,6 +47,20 @@ This project demonstrates how to identify potential fraud using SQL by analyzing
 - High-risk users
 - Transaction frequency anomalies
 
+## Setup Commands
+
+cd ~/SQL-Projects
+mkdir project-12-fraud-detection-system
+cd project-12-fraud-detection-system
+touch README.md schema.sql data.sql queries.sql
+
+## Git Commands
+
+cd ..
+git add .
+git commit -m "add project 12 fraud detection system"
+git push
+
 ---
 
 ## Author
