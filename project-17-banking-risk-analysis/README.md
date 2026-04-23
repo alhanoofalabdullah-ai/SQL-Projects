@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to detect banking risks by analyzing cu
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-17-banking-risk-analysis
-cd project-17-banking-risk-analysis
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-17-banking-risk-analysis
+- cd project-17-banking-risk-analysis
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 17 banking risk analysis"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 17 banking risk analysis"
+- git push
 
 ---
 
