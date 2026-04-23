@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to evaluate employee performance based 
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-16-employee-performance-analytics
-cd project-16-employee-performance-analytics
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-16-employee-performance-analytics
+- cd project-16-employee-performance-analytics
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 16 employee performance analytics"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 16 employee performance analytics"
+- git push
 
 ---
 
