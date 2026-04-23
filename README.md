@@ -1,147 +1,87 @@
-# 💾 SQL Projects Portfolio
+# SQL Projects
 
-A collection of real-world SQL projects focused on data analysis, reporting, and database design.
-
----
-
-## 📁 Projects
-
-### 1️⃣ Employee Database
-A relational database system for managing employees and departments.
-
-**Features:**
-- Table design with relationships
-- Sample data for testing
-- Advanced SQL queries:
-  - JOIN operations
-  - Aggregations (AVG, MAX)
-  - Filtering and grouping
-
-📂 Path: `/project-01-employee-database`
-
-### 2️⃣ Sales Database
-A relational SQL project for managing customers, products, and orders with sales analytics.
-
-**Features:**
-- Customer, product, and order tables
-- Revenue analysis
-- Product performance analysis
-- Customer spending analysis
-- Filtering and reporting queries
-
-📂 Path: `/project-02-sales-database`
-
-### 3️⃣ Banking System Database
-A SQL project for managing customers, accounts, and financial transactions.
-
-**Features:**
-- Customer and account management
-- Deposit and withdrawal tracking
-- Balance analysis
-- Transaction reporting
-- Customer activity insights
-
-📂 Path: `/project-03-banking-system`
-
-### 4️⃣ E-Commerce Database
-A SQL project for managing customers, products, and online orders with revenue analytics.
-
-**Features:**
-- Customer and product management
-- Orders and order items tracking
-- Revenue analysis
-- Best-selling products
-- Top customer insights
-- Stock reporting
-
-📂 Path: `/project-04-ecommerce-database`
-
-### 5️⃣ Inventory Management Database
-A SQL project for managing suppliers, products, and stock movements with inventory analytics.
-
-**Features:**
-- Supplier and product management
-- Stock in / stock out tracking
-- Low stock analysis
-- Inventory value reporting
-- Category and supplier insights
-
-📂 Path: `/project-05-inventory-database`
-
-### 6️⃣ Student Performance Analytics
-A SQL project for analyzing student grades and academic performance across multiple subjects.
-
-**Features:**
-- Student and subject management
-- Grade tracking
-- Average score analysis
-- Top and lowest student insights
-- Ranking and performance filtering
-
-📂 Path: `/project-06-student-analytics`
-
-### 7️⃣ Hospital Database System
-A SQL project for managing patients, doctors, and appointments with healthcare analytics.
-
-**Features:**
-- Patient and doctor management
-- Appointment scheduling
-- Status tracking
-- Doctor workload analysis
-- Patient activity insights
-- Specialization-based reporting
-
-📂 Path: `/project-07-hospital-database`
-
-### 8️⃣ Log Analysis System
-A SQL project for monitoring system logs and analyzing operational issues.
-
-**Features:**
-- System log tracking
-- Error and warning analysis
-- Daily activity monitoring
-- System activity comparison
-- High error rate detection
-
-📂 Path: `/project-08-log-analysis`
-
-### 9️⃣ Advanced Reporting Engine
-A SQL project for generating business reports using joins, subqueries, and views.
-
-**Features:**
-- Detailed sales reporting
-- Customer spending analysis
-- Product and category revenue insights
-- City-based order analysis
-- Average order value
-- Reusable reporting views
-
-📂 Path: `/project-09-reporting-engine`
-
-### 🔟 HR Analytics Dashboard Queries
-A SQL project for analyzing employee data and workforce trends.
-
-**Features:**
-- Turnover rate calculation
-- Salary insights
-- Hiring trends
-- Department performance
-- Workforce analytics
-
-📂 Path: `/project-10-hr-analytics`
+A complete collection of SQL projects for data analysis, business intelligence, and real-world database systems.
 
 ---
 
-## 🛠 Skills Demonstrated
-- SQL Querying
-- Database Design
-- Data Analysis
-- Joins & Relationships
-- Aggregation Functions
+## Overview
+
+This repository contains professional SQL projects covering multiple industries such as finance, healthcare, e-commerce, and operations.
 
 ---
 
-## 🚀 More Projects Coming Soon...
-- Sales Analytics Database
-- E-commerce Database
-- Dashboard Queries
+## Projects
+
+### Core SQL Projects
+
+* Project 01 – Employee Database
+* Project 02 – Sales Database
+* Project 03 – Banking System
+* Project 04 – E-Commerce Database
+* Project 05 – Inventory Database
+* Project 06 – Student Analytics
+* Project 07 – Hospital Database
+* Project 08 – Log Analysis
+* Project 09 – Reporting Engine
+* Project 10 – HR Analytics
+
+---
+
+### Advanced SQL Projects
+
+* Project 11 – Customer Analytics Dashboard
+* Project 12 – Fraud Detection System
+* Project 13 – Recommendation Engine
+* Project 14 – Real-Time Sales Analysis
+* Project 15 – Inventory Optimization System
+* Project 16 – Employee Performance Analytics
+* Project 17 – Banking Risk Analysis
+* Project 18 – Healthcare Analytics System
+* Project 19 – Log Monitoring System
+* Project 20 – Business Intelligence Reports
+
+---
+
+## Technologies Used
+
+* SQL
+* Relational Databases
+* Joins
+* Aggregations
+* Window Functions
+* Subqueries
+* Data Modeling
+
+---
+
+## Skills Covered
+
+* Data analysis and reporting
+* Business intelligence (BI)
+* Query optimization
+* Data aggregation
+* KPI generation
+* Real-world scenario problem solving
+
+---
+
+## Project Structure
+
+Each project includes:
+
+* `schema.sql` → Database structure
+* `data.sql` → Sample data
+* `queries.sql` → SQL queries
+* `README.md` → Documentation
+
+---
+
+## Goal
+
+Build a strong SQL portfolio demonstrating expertise in data analysis, reporting, and database design.
+
+---
+
+## Author
+
+Alhanoof Alabdullah
