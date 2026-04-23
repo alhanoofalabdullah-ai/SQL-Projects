@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to analyze healthcare data, track patie
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-18-healthcare-analytics-system
-cd project-18-healthcare-analytics-system
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-18-healthcare-analytics-system
+- cd project-18-healthcare-analytics-system
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 18 healthcare analytics system"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 18 healthcare analytics system"
+- git push
 
 ---
 
