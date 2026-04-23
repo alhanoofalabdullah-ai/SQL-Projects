@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to recommend products by analyzing cust
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-13-recommendation-engine
-cd project-13-recommendation-engine
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-13-recommendation-engine
+- cd project-13-recommendation-engine
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 13 recommendation engine"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 13 recommendation engine"
+- git push
 
 ---
 
