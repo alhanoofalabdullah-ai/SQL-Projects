@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to analyze inventory data, detect low-s
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-15-inventory-optimization-system
-cd project-15-inventory-optimization-system
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-15-inventory-optimization-system
+- cd project-15-inventory-optimization-system
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 15 inventory optimization system"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 15 inventory optimization system"
+- git push
 
 ---
 
