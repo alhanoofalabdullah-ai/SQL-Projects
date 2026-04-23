@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to analyze sales transactions in real t
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-14-real-time-sales-analysis
-cd project-14-real-time-sales-analysis
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-14-real-time-sales-analysis
+- cd project-14-real-time-sales-analysis
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 14 real time sales analysis"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 14 real time sales analysis"
+- git push
 
 ---
 
