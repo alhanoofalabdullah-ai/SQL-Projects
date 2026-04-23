@@ -50,17 +50,17 @@ This project demonstrates how to use SQL to store and analyze log data, detect s
 
 ## Setup Commands
 
-cd ~/SQL-Projects
-mkdir project-19-log-monitoring-system
-cd project-19-log-monitoring-system
-touch README.md schema.sql data.sql queries.sql
+- cd ~/SQL-Projects
+- mkdir project-19-log-monitoring-system
+- cd project-19-log-monitoring-system
+- touch README.md schema.sql data.sql queries.sql
 
 ## Git Commands
 
-cd ..
-git add .
-git commit -m "add project 19 log monitoring system"
-git push
+- cd ..
+- git add .
+- git commit -m "add project 19 log monitoring system"
+- git push
 
 ---
 
