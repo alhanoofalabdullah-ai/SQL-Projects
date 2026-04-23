@@ -48,6 +48,21 @@ This project demonstrates how to analyze customer activity using SQL by tracking
 - Total revenue by customer
 - Customer order count
 
+## Setup Commands
+
+cd ~/SQL-Projects
+mkdir project-11-customer-analytics-dashboard
+cd project-11-customer-analytics-dashboard
+touch README.md schema.sql data.sql queries.sql
+
+## Git Commands
+
+cd ..
+git add .
+git commit -m "add project 11 customer analytics dashboard"
+git push
+
+
 ---
 
 ## Author
